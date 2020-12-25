@@ -40,7 +40,7 @@ import org.jfree.data.category.DefaultCategoryDataset;
 
 /**
  *
- * @author Guilherme Lourenço
+ *
  */
 public class TelaClassificacao extends JFrame{
     List<Time> times;    
