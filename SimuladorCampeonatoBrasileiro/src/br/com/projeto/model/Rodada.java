@@ -16,7 +16,7 @@ import java.util.Stack;
 
 /**
  *
- * @author Daylton
+ * @author Marcel sampaio
  */
 public class Rodada {
     private List<Time> listaTime;
